@@ -4,7 +4,6 @@ import { CounterController } from './CounterController';
 import { DisplayCounter } from './DisplayCounter';
 
 import { CountContextProvider } from '../state/CountContextProvider';
-import { useCount } from '../state/useCount';
 
 export const App = () => {
   return (
